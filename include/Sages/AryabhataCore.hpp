@@ -1,7 +1,7 @@
 #ifndef ARYABHATACORE_HPP
 #define ARYABHATACORE_HPP
 
-#include "BrahmaguptaMath.hpp"
+#include "Sages/BrahmaguptaMath.hpp"
 
 class AryabhataCore {
 public:
